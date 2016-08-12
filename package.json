@@ -13,7 +13,7 @@
   "author": "Ben Brunton <ben.brunton@mable.co.uk>",
   "license": "MIT",
   "dependencies": {
-    "browserify-fs": "^1.0.0",
+    "browserfs": "^0.5.12",
     "q": "^1.4.1",
     "request": "^2.60.0"
   }
