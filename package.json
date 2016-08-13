@@ -13,8 +13,8 @@
   "author": "Ben Brunton <ben.brunton@mable.co.uk>",
   "license": "MIT",
   "dependencies": {
+    "browser-request": "^0.3.3",
     "browserfs": "^0.5.12",
-    "q": "^1.4.1",
-    "request": "^2.60.0"
+    "q": "^1.4.1"
   }
 }
